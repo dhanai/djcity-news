@@ -74,15 +74,10 @@ ul{
 }
 
 ol{
-	list-style-position: inside;
+    padding-left: 1.6rem;
+    list-style-position: outside;
 	list-style-type: decimal;
 	font-weight: 300;
-}
-
-ol li:before {
-  content: "";
-  width: 10px;
-  display: inline-block;
 }
 
 em{
