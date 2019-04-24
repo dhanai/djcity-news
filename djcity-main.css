@@ -1,6 +1,5 @@
 /*! 
-Theme Name: News '19
-Version: 3.0
+DJcity Styles
 */
 
 body{
@@ -19,7 +18,7 @@ a:hover,
 span a:hover,
 p a:hover,
 blockquote a{
-	color: #cc2929;
+	color: #cc2929 !important;
 }
 
 
