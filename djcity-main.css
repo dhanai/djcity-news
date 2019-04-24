@@ -1,6 +1,6 @@
 /*! 
-    Theme Name: News 19',
-    Version: 2
+Theme Name: News '19
+Version: 3.0
 */
 
 body{
@@ -75,6 +75,20 @@ ol{
 
 em{
 	font-style: italic;
+}
+
+.wpp_imgeditor_error{
+	display: none !important;
+}
+/*.post-categories .category{
+	display: none;
+}
+.post-categories .category:first-child{
+	display: inline;
+}*/
+
+.side-post .post img{
+	float: none;
 }
 
 
