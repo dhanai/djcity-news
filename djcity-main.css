@@ -18,7 +18,8 @@ a:hover,
 span a:hover,
 p a:hover,
 blockquote a,
-article a{
+article a,
+article a:hover{
 	color: #cc2929;
 }
 
