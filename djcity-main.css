@@ -344,13 +344,13 @@ textarea, select, input, button { outline: none; }
 
 /*Search*/
 .search-item{
-	border-bottom: 1px solid: #e6e6e6;
+	border-bottom: 1px solid #e6e6e6;
 	padding-bottom: 2rem;
 	margin-bottom: 2rem;
 }
 
 .search-item:last-child{
-	border-bottom: 1px solid: transparent;
+	border-bottom: 1px solid transparent;
 }
 
 .archive-meta{
