@@ -4,11 +4,11 @@ DJcity Styles
 
 body{
 	font-family: 'Montserrat', sans-serif !important;
+	font-size: 14px !important;
 }
 
 p{
 	font-weight: 300;
-	font-size: 14px;
 }
 
 a,
