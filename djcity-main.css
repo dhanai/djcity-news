@@ -31,7 +31,7 @@ h5 a,
 h5 a:hover,
 #site-nav ul li a,
 #site-nav ul li a:hover{
-	color: #1a1a1a;
+	color: #1a1a1a !important;
 }
 
 h2.entry-title{
