@@ -322,6 +322,10 @@ textarea, select, input, button { outline: none; }
 	font-weight: 300;
 }
 
+.list-top50 li:nth-child(10n){
+	margin-bottom: 2rem;
+}
+
 
 .border-none{
 	border: none !important;
