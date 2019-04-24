@@ -75,6 +75,7 @@ ul{
 
 ol{
 	list-style-position: inside;
+	list-style-type: decimal;
 	font-weight: 300;
 }
 
