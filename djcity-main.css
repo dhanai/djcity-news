@@ -79,7 +79,7 @@ ol{
 	font-weight: 300;
 }
 
-ol li::before {
+ol li:before {
   content: "";
   width: 10px;
   display: inline-block;
