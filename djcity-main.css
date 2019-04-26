@@ -146,6 +146,13 @@ em{
 
 #search{
 	position: relative;
+	margin-top: 1rem;
+}
+
+@media (min-width: 768px){
+	#search{
+		margin-top: 0.3rem;
+	}
 }
 
 .search-wrapper{
