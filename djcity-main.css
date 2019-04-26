@@ -146,11 +146,22 @@ em{
 
 #search{
 	position: relative;
-	margin-top: 1rem;
+	margin-top: 0.8rem;
+}
+
+.jp #search,
+.eu #search,
+.de #search,
+.latino #search{
+	margin-top: 1.2rem;
 }
 
 @media (min-width: 768px){
-	#search{
+	#search,
+	.jp #search,
+	.eu #search,
+	.de #search,
+	.latino #search{
 		margin-top: 0.3rem;
 	}
 }
