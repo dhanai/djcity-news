@@ -111,6 +111,12 @@ em{
 	max-width: 100px;
 }
 
+@media (min-width: 375px){
+	#site-title img{
+		max-width: 140px;
+	}
+}
+
 @media (min-width: 768px){
 	#site-title img{
 		max-width: 200px;
