@@ -126,6 +126,7 @@ em{
 #site-nav{
 	display: inline-block;
 	float: right;
+	margin-top: 0.2rem;
 }
 
 #site-nav ul li{
