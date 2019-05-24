@@ -105,7 +105,7 @@ em{
 
 /*Header*/
 
-.is-app .branding{
+.is-app #branding{
 	display: none;
 }
 
