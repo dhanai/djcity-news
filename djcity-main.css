@@ -298,6 +298,13 @@ textarea, select, input, button { outline: none; }
 	color: #1a1a1a;
 }
 
+.post .entry-tags a{
+	color: #1a1a1a;
+}
+
+.post .entry-tags .comma:last-child{
+	display: none;
+}
 
 .youtube-responsive-container {
 	position:relative;
