@@ -308,8 +308,8 @@ textarea, select, input, button { outline: none; }
 
 .youtube-responsive-container {
 	position:relative;
-	padding-bottom:56.25%;
-	padding-top:30px;
+	padding-bottom: 51.30%;
+	padding-top: 30px;
 	height:0;
 	overflow:hidden;
 }
