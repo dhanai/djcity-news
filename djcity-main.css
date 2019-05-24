@@ -104,6 +104,11 @@ em{
 
 
 /*Header*/
+
+.is-app .branding{
+	display: none;
+}
+
 #site-title{
 	float: left;
 	display: inline-block;
