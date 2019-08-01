@@ -248,6 +248,11 @@ textarea, select, input, button { outline: none; }
 }
 
 /*Posts*/
+/*.page-content{
+	display: none;
+}*/
+
+
 .post-category{
 	color: #fff;
 	background-color: #1a1a1a;
@@ -334,6 +339,14 @@ textarea, select, input, button { outline: none; }
 	left:0;
 	width:100%;
 	height:100%;
+}
+
+.youtube-responsive-container img{
+	position: absolute;
+	top: 50%;
+	left: 0;
+	transform: translateY(-50%);
+	width: 100%;
 }
 
 
@@ -431,3 +444,8 @@ textarea, select, input, button { outline: none; }
 .list-top50 li:nth-child(10n){
 	margin-bottom: 2rem;
 }
+
+.search-results .inline-share{
+	display: none;
+}
+
