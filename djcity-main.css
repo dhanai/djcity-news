@@ -446,6 +446,6 @@ textarea, select, input, button { outline: none; }
 }
 
 .search-results .inline-share{
-	display: none;
+	display: none !important;
 }
 
